@@ -1,6 +1,4 @@
 [core]
     remote = remote_storage
-[cache]
-    dir = /home/aravind-pt7506/Downloads/dvc_shared_cache
 ['remote "remote_storage"']
     url = /home/aravind-pt7506/Downloads/dvc_remote
